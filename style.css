@@ -338,7 +338,7 @@ main .container .left .profile{
     background: url("./images/story-6.jpg")no-repeat center center/cover;
 }
 
-.middle .story .profile-photo {
+.middle .story .profile-photo { 
     width: 2rem;
     height: 2rem;
     align-items:start;
